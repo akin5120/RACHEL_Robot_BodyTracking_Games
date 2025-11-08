@@ -1,6 +1,6 @@
 #  Project RACHEL: Social Robot for Active Aging
 
-![Cornhole Banner](docs/banner.png)
+![Cornhole Banner](docs/banner.jpg)
 
 **Role:** Lead UX Designer · Game Designer · Developer  
 **Team:** 1 Director · 1 Software Engineer · 1 Mechanical Engineer · Me  
@@ -46,13 +46,13 @@ It was calming but exposed key tracking challenges:
 - **Low light and multiple users** affected stability  
 - Players needed clear visual feedback to feel confident  
 
-| ![Old Ui](docs/oldui.png) | User Interface Earlier Iteration |
+| ![Old Ui](docs/oldui.jpg) | User Interface Earlier Iteration |
 
 ### Phase 2 — Outdoor Mini-Games
 Based on feedback, we pivoted to **Cornhole** and **Disc Golf**, drawing inspiration from familiar outdoor leisure activities.  
 These were easier to understand and provided more precise movement goals.
 
-| ![UI](docs/ui.png) | User Interface |
+| ![UI](docs/ui.PNG) | User Interface |
 
 Each mini-game featured:
 - A **goal-based progression system**
@@ -104,7 +104,7 @@ Testers focused on the UI instead of the motion itself.
 -  Ethics-approved research version ready for participant testing
 -  Publicly demoed at **AGE-WELL 2025 Conference** in Montreal  
 
-| ![Age-Well](docs/gameplay.png) | AGE-WELL 2025 Conference |
+| ![Age-Well](docs/gameplay.jpeg) | AGE-WELL 2025 Conference |
 ---
 
 ##  Reflection
