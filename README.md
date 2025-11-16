@@ -2,9 +2,9 @@
 
 ![Cornhole Banner](docs/banner.jpg)
 
-**Role:** Lead UX Designer · Game Designer · Developer  
-**Team:** 1 Director · 1 Software Engineer · 1 Mechanical Engineer · Me  
-**Tools:** Unity · C# · MediaPipe Unity Plugin · Vosk (Voice Command) · Blender · Figma  
+**Role:** UX Designer · Game Designer · Developer  
+**Team:** 1 Director · 1 Software Engineer · 1 Mechanical Engineer · 1 Researcher · Me  
+**Tools:** Unity · C# · MediaPipe Unity Plugin · Vosk (Voice Command) · Blender 3D · Figma  
 **Year:** 2025  
 
 ---
@@ -13,12 +13,12 @@
 Project **RACHEL** is a social robot designed to encourage **active aging** through movement and play.  
 The system combines **body tracking**, **voice recognition**, and **game-based interaction** to engage older adults in light physical activity.
 
-I served as **Lead UX Designer, Game Designer, and Developer**, responsible for the full end-to-end design — from gameplay concepts and interface design to technical implementation in Unity.
+I served as **UX Designer, Game Designer, and Developer**, responsible for the full end-to-end design, from gameplay concepts and interface design to technical implementation in Unity.
 
 ---
 
 ##  Vision
-We wanted to build a robot that felt more like a *companion* than a device — one that could motivate users to move through simple, joyful games.
+We wanted to build a robot that felt more like a *companion* than a device, one that could motivate users to move through simple, joyful games.
 
 **Core Goals**
 - Encourage movement through play  
@@ -67,7 +67,7 @@ Each mini-game featured:
 Originally, body tracking ran through a Python UDP bridge, but this wasn’t ideal for a standalone robot.  
 I transitioned to **MediaPipe Unity**, which captures webcam input directly inside Unity.
 
-| ![Bodytracking Test](docs/balloon.gif) | Cornhole mini-game in Unity |
+| ![Bodytracking Test](docs/balloon.gif) | Body Tracking game in Unity |
 
 **How it works:**
 1. Unity accesses the robot’s webcam.  
@@ -108,7 +108,7 @@ Testers focused on the UI instead of the motion itself.
 ---
 
 ##  Reflection
-Designing RACHEL taught me how to build **player-centered, embodied experiences** — where the interface isn’t just a screen, but the human body itself.
+Designing RACHEL taught me how to build **player-centered, embodied experiences**  where the interface isn’t just a screen, but the human body itself.
 
 It strengthened my ability to:
 - Balance **fun and usability**  
